@@ -16,9 +16,13 @@ WHAT ARE MY SKILLS ?
 Pretty Simple.!
 
 => HTML (HTML 5)
+
 => CSS (SCSS)
+
 => Bootstrap 4, 5
+
 => jQuery
+
 => Javascript
 
 =>Databases
