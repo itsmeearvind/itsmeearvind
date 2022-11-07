@@ -26,37 +26,57 @@ Pretty Simple.!
 => Javascript
 
 =>Databases
+
     -> MySql
+    
     -> MongoDB
 
 => WordPress
+
     -> Installing locally and on the hosting server.
+    
     -> Theme Installation, Customization, Creating Child Theme.
+    
     -> Custom Post Types, Taxonomies, Admin Menu, and Submenu.
+    
     -> Plugin Installation, Configuration.
+    
     -> Speed Optimization.
+    
     -> Bugs fixing.
+    
     -> Migrating Website, Backup file, and database.
 
 => Shopify
+
      -> Set up store.
+     
      -> Theme Installation, Customization, and duplicate.
+     
      -> App Installation and configuration.
+     
      -> Domain Setup, payment integration, and more. 
 
 => React
+
     -> Simple and Static Website.
+    
     -> Learning for dynamic pages, and Admin dashboard.
 
 => Loopback 4 (Node.js and TypeScript Framework)
+
     -> Project Setup.
+    
     -> Creating model, controller, repository, etc.
+    
     -> API & Authorization.
 
 => Express
+
     -> Basic understanding ( In Learning Process).
 
 => TypeScript
+
     -> Basic understanding ( In Learning Process ).
 
 
