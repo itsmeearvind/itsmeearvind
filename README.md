@@ -5,7 +5,7 @@ Greetings!
 
 WHO AM I ?
 
-I am a person who keeps interest in code and thinks about code, bugs, and solutions. Yeah, I also think about my family and friends. I have some more interests, such as outfield games, indoor games, and others. With a positive attitude, I am a calm and cheerful person. 
+I am a person who has interest in code and think about code, bugs, and solutions. Yeah, I also think about my family and friends. I have some more interests, such as outfield games, indoor games, and others. With a positive attitude, I am a calm and cheerful person. 
 
 WHAT ABOUT MY EXPERIENCE ?
 
